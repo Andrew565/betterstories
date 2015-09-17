@@ -2,14 +2,12 @@
 Title         : Find Your Story
 Sub Title     : Building Better Sites by Building Better Stories 
 Author        : Andrew Steele
-Affiliation   : Writer and Web App Dev
+Affiliation   : 
 Email         : about.me/andrewsteele
 Reveal Theme  : sky
 Beamer Theme  : singapore
 
 [TITLE]
-
-# The Tale of Winnie and Faye Lots
 
 ## Overview
 
@@ -17,10 +15,10 @@ Beamer Theme  : singapore
 
 # &larr; Who is this guy?
 
-## Who is Andrew Steele?
+## I am Andrew Steele, RAWR
 * A professional coder for over 8 years
-* Specializes in front-end, also knows Ruby and PHP
-* Writes modern sci-fi and urban fantasy fiction
+* Specialize in front-end, also know Ruby and PHP
+* Write modern sci-fi and urban fantasy fiction
   * (has almost finished his first novel)
 * On a personal note: married (8 years!) with children (3!)
 
@@ -45,28 +43,65 @@ Beamer Theme  : singapore
 [tumblr_sign_in]: images/tumblr_sign_in.jpg "tumblr_sign_in" { width=auto max-width=90% }
 
 ~ Slide
-
 ![icloud-sign-in]
 ~
 
 [icloud-sign-in]: images/icloud-sign-in.png "icloud-sign-in" { width=auto max-width=90% }
 
-
 ~ Slide
-
 > If I go visit a service that requires me to login to use it, all I want is to be able to login instantly.
 
-**Josh Tyson, *UX Magazine***
+**Josh Tyson - *UX Magazine***
 ~
 
-# Why should we Humanize?
+# Why should we care about Stories?
+
+~ Slide
+~ Begin Framed
+Time to hook attention:
+
+* Landing page - 7 seconds
+* YouTube - 5 seconds
+* Facebook - 2 seconds
+~ End Framed
+
+**Phil Nottingham, Video Strategist - *Distilled***
+~
+
+~ Slide { data-background-image=images/nahai-quote.jpg }
+&nbsp;
+~
+
+~ Slide
+![long-term-relationships]
+~
+
+[long-term-relationships]: images/long-term-relationships.jpg "long-term-relationships" { width=auto max-width=90% }
 
 # What or Who Should we Write About?
 
+## D&D Can Be Your Friend
+
+## Persona Generators
+
 # How do we write these stories?
+
+## Fake(r) it from Day One
+
+## User Flow Diagrams
 
 # Summary
 
+* Write to sell, write to connect
+* Write about real (fake) people
+* Write early, write often
+
 # Conclusion
+
+~ Slide
+> Stories have the ability to change the world. Let whatever you touch tell a story.
+
+**Andrew Steele, *Writer***
+~
 
 # Credits/Links
