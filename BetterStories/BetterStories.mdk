@@ -26,13 +26,38 @@ Beamer Theme  : singapore
 
 # What a bad story looks like
 
-## Treat all users with respect
+~ Slide
+![Spotfy-Log-in-or-sign-up]
+~
 
-<!--
-  Add screens from bad login wtfUX
--->
+[Spotfy-Log-in-or-sign-up]: images/Spotfy-Log-in-or-sign-up.png "Spotfy-Log-in-or-sign-up" { width=auto max-width=90% }
+
+~ Slide
+![sign-up-or-sign-in-wtfux-1]
+~
+
+[sign-up-or-sign-in-wtfux-1]: images/sign-up-or-sign-in-wtfux-1.jpg "sign-up-or-sign-in-wtfux-1" { width=auto max-width=90% }
+
+~ Slide
+![tumblr_sign_in]
+~
+
+[tumblr_sign_in]: images/tumblr_sign_in.JPG "tumblr_sign_in" { width=auto max-width=90% }
+
+~ Slide
+
+![icloud-sign-in]
+~
+
+[icloud-sign-in]: images/icloud-sign-in.png "icloud-sign-in" { width=auto max-width=90% }
 
 
+~ Slide
+
+> If I go visit a service that requires me to login to use it, all I want is to be able to login instantly.
+
+**Josh Tyson, *UX Magazine***
+~
 
 # Why should we Humanize?
 
